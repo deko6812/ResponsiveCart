@@ -36,6 +36,7 @@ body{
     position: absolute;
     background-color: #EBE8E3;
     right: 0;
+    height: 100vh;
 }
 .topBar{
     padding-bottom: 11.51px;
